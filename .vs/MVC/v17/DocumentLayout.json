@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ashutosh\\MVC\\MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\views\\categories\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\categories\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|d:\\ashutosh\\mvc\\mvc\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA696EB-B8F4-477D-9B06-ACD25051AD17}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Category.cshtml",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\Categories\\_Category.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Categories\\_Category.cshtml",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\Categories\\_Category.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Categories\\_Category.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T14:50:39.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\Categories\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Categories\\Add.cshtml",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\Categories\\Add.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Categories\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T14:01:03.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T05:31:54.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBgAAACrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T05:14:55.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T13:38:49.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T04:43:00.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T05:14:43.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\Category.cs",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Models\\Category.cs",
+              "RelativeToolTip": "MVC\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T05:29:59.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T13:29:10.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T04:50:15.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesRepository.cs",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Models\\CategoriesRepository.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\CategoriesRepository.cs",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Models\\CategoriesRepository.cs",
+              "RelativeToolTip": "MVC\\Models\\CategoriesRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:25:08.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T15:08:23.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "D:\\Ashutosh\\MVC\\MVC\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:38:10.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
